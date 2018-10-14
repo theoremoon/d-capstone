@@ -1,0 +1,13 @@
+{
+	"name": "capstone-d",
+	"authors": [
+		"theoldmoon0602"
+	],
+	"description": "a binding for capstone library",
+	"copyright": "Copyright © 2018, theoldmoon0602",
+	"license": "MIT",
+  "targetType": "library",
+  "libs": [
+    "capstone"
+  ]
+}

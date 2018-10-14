@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+capstone-d.so
+capstone-d.dylib
+capstone-d.dll
+capstone-d.a
+capstone-d.lib
+capstone-d-test-*
+libcapstone-d.a
+*.exe
+*.o
+*.obj
+*.lst
