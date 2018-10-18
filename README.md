@@ -1,4 +1,4 @@
-# capstone-d 
+# d-capstone 
 
 A simple header of [capstone](https://www.capstone-engine.org) library. Converted with dstep.
 
@@ -7,7 +7,7 @@ A simple header of [capstone](https://www.capstone-engine.org) library. Converte
 in your dub.json
 
 ```json
-"capstone-d": "master"
+"d-capstone": "master"
 ```
 
 
